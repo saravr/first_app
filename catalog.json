@@ -171,11 +171,11 @@
     },
     {
       "id": "jazz_in_paris",
-      "title": "Jazz in Paris",
+      "title": "Comedy track - NOT Jazz in Paris",
       "album": "Jazz & Blues",
       "artist": "Media Right Productions",
       "genre": "Jazz & Blues",
-      "source": "https://storage.googleapis.com/automotive-media/Jazz_In_Paris.mp3",
+      "source": "https://github.com/saravr/first_app/raw/master/10-MB-MP3.mp3",
       "image": "https://storage.googleapis.com/automotive-media/album_art.jpg",
       "trackNumber": 1,
       "totalTrackCount": 6,
