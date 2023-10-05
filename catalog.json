@@ -2,7 +2,7 @@
   "music": [
     {
       "id": "wake_up_01",
-      "title": "Comedy track for testing",
+      "title": "Some 7 min audio",
       "album": "Wake Up",
       "artist": "The Kyoto Connection",
       "genre": "Electronic",
@@ -10,20 +10,20 @@
       "image": "https://storage.googleapis.com/uamp/The_Kyoto_Connection_-_Wake_Up/art.jpg",
       "trackNumber": 1,
       "totalTrackCount": 13,
-      "duration": 2200,
+      "duration": 434,
       "site": "http://freemusicarchive.org/music/The_Kyoto_Connection/Wake_Up_1957/"
     },
     {
       "id": "wake_up_02",
-      "title": "Geisha",
+      "title": "Comedy track",
       "album": "Wake Up",
       "artist": "The Kyoto Connection",
       "genre": "Electronic",
-      "source": "https://storage.googleapis.com/uamp/The_Kyoto_Connection_-_Wake_Up/02_-_Geisha.mp3",
+      "source": "https://github.com/saravr/first_app/raw/master/comedy.mp4",
       "image": "https://storage.googleapis.com/uamp/The_Kyoto_Connection_-_Wake_Up/art.jpg",
       "trackNumber": 2,
       "totalTrackCount": 13,
-      "duration": 267,
+      "duration": 2200,
       "site": "http://freemusicarchive.org/music/The_Kyoto_Connection/Wake_Up_1957/"
     },
     {
