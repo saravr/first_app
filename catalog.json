@@ -2,11 +2,11 @@
   "music": [
     {
       "id": "wake_up_01",
-      "title": "Some 7 min audio",
+      "title": "Fiction audio",
       "album": "Wake Up",
       "artist": "The Kyoto Connection",
       "genre": "Electronic",
-      "source": "https://github.com/saravr/first_app/raw/master/10-MB-MP3.mp3",
+      "source": "https://github.com/saravr/first_app/raw/master/fiction.mp3",
       "image": "https://storage.googleapis.com/uamp/The_Kyoto_Connection_-_Wake_Up/art.jpg",
       "trackNumber": 1,
       "totalTrackCount": 13,
